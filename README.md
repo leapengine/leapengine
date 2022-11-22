@@ -1,4 +1,4 @@
-# Leapengine - Make your product multiplayer, in just 5 minutes!
+# leapengine - Make your product multiplayer, in just 5 minutes!
 
 Welcome to the Leapengine GitHub repo!
 
