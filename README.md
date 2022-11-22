@@ -1,3 +1,7 @@
+<div>
+  <a href="https://leapengine.io"><img width="100" src="https://raw.githubusercontent.com/leapengine/leapengine/main/leapengine.png" /></a>
+</div>
+
 # leapengine - Make your product multiplayer, in just 5 minutes!
 
 Welcome to the Leapengine GitHub repo!
